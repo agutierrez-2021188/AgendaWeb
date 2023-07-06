@@ -1,0 +1,19 @@
+.container{
+  text-align: center;
+  
+}
+
+#pendientes {
+  list-style: none;
+  padding: 0;
+}
+
+#pendientes li {
+  background-color: rgb(153, 223, 226);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 8px;
+  margin-bottom: 8px;
+
+}
